@@ -1,0 +1,6 @@
+{
+  "appId": "com.example.app",
+  "appName": "my-app-cap",
+  "webDir": "build",
+  "bundledWebRuntime": false
+}
